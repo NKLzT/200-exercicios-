@@ -1,6 +1,19 @@
 # 200-exercicios-
 200 exercícios de programação direcionado para programadores iniciantes e intermediários
 
+<h1>Olá, seja bem-vindo(a)!</h1>
+
+<h2>Se você está procurando maneiras de melhorar seu portfólio de programação e aumentar suas chances de conseguir um emprego ou um projeto, temos uma ótima sugestão para você!
+
+Criamos uma lista de 100 projetos de programação que vão ajudá-lo(a) a desenvolver suas habilidades e conhecimentos em diversas áreas da programação. Com estes projetos, você poderá criar um portfólio incrível e mostrar para o mundo o seu talento.
+
+Você pode encontrar esta lista acessando a página que deixaremos na descrição abaixo. Lá, você terá acesso a um conteúdo completo e exclusivo, que pode ser seu por um preço muito acessível.
+
+Não perca esta oportunidade de se destacar no mundo da programação e aprimorar suas habilidades. Clique no link abaixo e adquira agora mesmo esta lista de projetos incríveis!
+
+Link para a lista : [(http://bit.ly/42gLyrI)] <h2>
+ <br>
+ 
 Faça um programa que imprima "Hello, World!" na tela. <br>
 Faça um programa que peça ao usuário que digite seu nome e imprima uma saudação personalizada. <br>
 Faça um programa que peça ao usuário que digite dois números e imprima a soma. <br>
